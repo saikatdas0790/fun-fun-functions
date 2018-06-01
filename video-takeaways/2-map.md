@@ -4,7 +4,7 @@
 
 ```javascript
 
-var someFunction = (x => x/2);
+let someFunction = (x => x/2);
 
 ```
 
@@ -12,7 +12,7 @@ var someFunction = (x => x/2);
 
 ```javascript
 
-var materials = [
+let materials = [
   'Hydrogen',
   'Helium',
   'Lithium',

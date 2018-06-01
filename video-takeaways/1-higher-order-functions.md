@@ -2,7 +2,7 @@
 
 ```javascript
 
-var someFunction = function(someParameter) {
+let someFunction = function(someParameter) {
     // Do work
     return someValue;
 }
@@ -15,7 +15,7 @@ var someFunction = function(someParameter) {
 
 ```javascript
 
-var words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
+let words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
 
 const result = words.filter(word => word.length > 6);
 
